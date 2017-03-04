@@ -10,3 +10,6 @@ http://techblog.newsweaver.com/removing-sleeps-from-your-angularjs-protractor-te
 
 ### Config - before and after
 http://timothymartin.azurewebsites.net/protractor-before-and-afters/
+
+### Mastering Promises - pdf
+https://gitlab.com/kenichi.shibata/book/blob/master/%5BJAVASCRIPT%5D%5BMastering%20JavaScript%20Promises%5D.pdf
