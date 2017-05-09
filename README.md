@@ -10,6 +10,12 @@ http://docsplendid.com/tags/protractor
 https://github.com/angular/protractor/tree/6ebc4c3f8b557a56e53e0a1622d1b44b59f5bc04/spec/basic
 https://github.com/angular/protractor/tree/6ebc4c3f8b557a56e53e0a1622d1b44b59f5bc04/spec
 
+### Multiple browser handling
+https://github.com/angular/protractor/blob/master/spec/interaction/interaction_spec.js
+
+### Time outs:
+https://github.com/mgol/protractor/blob/master/docs/timeouts.md
+
 ### Config - before and after
 http://timothymartin.azurewebsites.net/protractor-before-and-afters/
 
